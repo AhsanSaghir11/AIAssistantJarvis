@@ -1,0 +1,7 @@
+groq
+AppOpener
+keyboard
+beautifulsoup4
+googlesearch-python
+pywhatkit
+python-dotenv
